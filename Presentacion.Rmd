@@ -1,0 +1,27 @@
+---
+title: "Shiny Application and Reproducible Pitch"
+author: "GERALDO ROSA"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+
+
+## INTRODUCCIÓN 
+
+Esta tarea evaluada por pares tiene dos partes. Primero, creará una aplicación Shiny y la implementará en los servidores de Rstudio. En segundo lugar, utilizará Slidify o Rstudio Presenter para preparar una presentación de tono reproducible sobre su aplicación(QUE ES LA QUE ESTAS VIENDO AHORA MISMO).
+
+## MTCARS
+
+Descripción:
+Los datos se extrajeron de la revista estadounidense Motor Trend de 1974 y comprenden el consumo de combustible y 10 aspectos del diseño y rendimiento del automóvil para 32 automóviles (modelos 1973--74).
+
+## ENLACES
+
+Github:
+  https://github.com/grosa007/Course-Project-Shiny-Application-and-Reproducible-Pitch  
+  
+Website:  
+  https://nh1sgm-geraldo-rosa.shinyapps.io/shinyapp/
+  
+## GRACIAS POR TU TIEMPO
